@@ -245,7 +245,7 @@ a {
 .db-story .box h4 {
   font-size: 35px;
   font-weight: 700;
-  color: var(--main-color);
+  color: #008f96;
 }
 .db-story .box p {
   font-size: 18px;
