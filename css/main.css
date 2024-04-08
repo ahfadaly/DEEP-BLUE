@@ -262,6 +262,9 @@ a {
   background-color: #04656a;
 }
 @media (max-width: 991px) {
+  .db-story {
+    height: auto;
+  }
   .db-story .title h2 {
     font-size: 32px;
   }
@@ -298,6 +301,9 @@ a {
   font-size: 18px;
 }
 @media (max-width: 991px) {
+  .what-we-do {
+    height: auto;
+  }
   .what-we-do .desc h2 {
     font-size: 32px;
   }
@@ -369,6 +375,9 @@ a {
   line-height: 20px;
 }
 @media (max-width: 991px) {
+  .but-how {
+    height: auto;
+  }
   .but-how .title h2 {
     font-size: 32px;
   }
