@@ -105,7 +105,8 @@ a {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  height: 110vh;
+  height: 100vh !important;
+  padding-top: 220px !important;
 }
 .about .title h2 {
   font-size: 70px;
@@ -241,7 +242,7 @@ a {
   font-weight: 400;
   line-height: 22px;
   text-align: center;
-  color: #fff;
+  color: #d6d6d6f5;
 }
 .db-story .box img {
   width: 90px;
@@ -280,6 +281,11 @@ a {
 /* end story ----- */
 
 /* satrt what-we-do ---- */
+.what-we-do {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
 .what-we-do .desc h2 {
   color: #008f96;
   font-size: 61px;
@@ -331,6 +337,13 @@ a {
 /* end partners -------- */
 
 /* start but-how ----- */
+
+.but-how {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
 .but-how .title h2 {
   color: var(--main-color);
   font-size: 55px;
